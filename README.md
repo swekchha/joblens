@@ -28,14 +28,16 @@ Job searching is a black box. You apply, hear nothing, and never know if you wer
 
 ## Screenshots
 
+### Saved jobs sorted by verdict
+<img width="1070" height="900" alt="Saved jobs" src="https://github.com/user-attachments/assets/ec95e92c-d03c-4eb3-8c54-a26c2b36f4a2" />
+
 ### Searching and scoring in real time
 <img width="1115" height="859" alt="Loading screen" src="https://github.com/user-attachments/assets/191317cf-33b2-4ddb-91e3-c0870020504d" />
 
 ### Results with AI match analysis
 <img width="1072" height="901" alt="Job results with analysis" src="https://github.com/user-attachments/assets/823631a5-24be-4737-85ad-dcf55eb413bd" />
 
-### Saved jobs sorted by verdict
-<img width="1070" height="900" alt="Saved jobs" src="https://github.com/user-attachments/assets/ec95e92c-d03c-4eb3-8c54-a26c2b36f4a2" />
+
 
 ---
 
